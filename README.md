@@ -49,10 +49,10 @@ The features of this dataset are:
 - `no_longer_available` - if listing is no longer available in website
 - `no_longer_available_date` - date when listing was no longer available on the website
 
-## steps to approach the project
+## Steps to approach the project
 
 1. Preprosess data i.e. PCA finding the make-sense features,
 2. EDA the cleansed dataset
 3. Modeling
 4. Model evaluation
-5. Deploy model using FastAPI
+5. Deploy model using FastAPI - still on the to do list
