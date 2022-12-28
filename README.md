@@ -1,6 +1,6 @@
 # Berlin flat pricing prediction
 
-Fun DS project trying to predict Berlin flat pricing
+Fun DS project trying to predict Berlin flat rental pricing (It is obsolete, but I want to try the knowledge anyway).
 
 ## Background
 
