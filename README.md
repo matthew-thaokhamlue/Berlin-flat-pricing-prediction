@@ -55,5 +55,5 @@ The features of this dataset are:
 2. EDA the cleansed dataset
 3. Modeling
 4. Model evaluation
-5. Serve the model using FastAPI - still on the to do list
-6. Deploy model to streamlit or Heroku - still on the to do list
+5. Serve the model using FastAPI
+6. Deploy model to Heroku - still on the to do list
